@@ -1,18 +1,18 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: Random Number Generator Challenge
-short_description: Random number generation challenge for each submission
-description: templates/description.html
-evaluation_details: templates/evaluation_details.html
-terms_and_conditions: templates/terms_and_conditions.html
+title: Greener ASR: Benchmarking automatic speech recognizer training towards low energy consumption
+short_description: Greener ASR Challenge at Interspeech 2022
+description: challenge_details/description.html
+evaluation_details: challenge_details/evaluation_details.html
+terms_and_conditions: challenge_details/terms_and_conditions.html
 image: logo.jpg
 submission_guidelines: templates/submission_guidelines.html
-leaderboard_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas a libero nec sagittis.
+leaderboard_description: TBD.
 evaluation_script: evaluation_script.zip
 remote_evaluation: False
 is_docker_based: False
-start_date: 2019-01-01 00:00:00
-end_date: 2099-05-31 23:59:59
+start_date: 2022-01-19 00:00:00
+end_date: 2022-09-23 23:59:59
 published: True
 
 leaderboard:
