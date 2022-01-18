@@ -1,7 +1,7 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: Greener ASR: Benchmarking automatic speech recognizer training towards low energy consumption
-short_description: Greener ASR challenge at Interspeech 2022
+title: Greener ASR challenge at Interspeech 2022
+short_description: Greener ASR - Benchmarking automatic speech recognizer training towards low energy consumption
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
