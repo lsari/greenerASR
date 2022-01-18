@@ -2,11 +2,11 @@
 # https://evalai.readthedocs.io/en/latest/configuration.html
 title: Greener ASR: Benchmarking automatic speech recognizer training towards low energy consumption
 short_description: Greener ASR challenge at Interspeech 2022
-description: challenge_details/description.html
-evaluation_details: challenge_details/evaluation_details.html
-terms_and_conditions: challenge_details/terms_and_conditions.html
+description: templates/description.html
+evaluation_details: templates/evaluation_details.html
+terms_and_conditions: templates/terms_and_conditions.html
 image: logo.jpg
-submission_guidelines: challenge_details/submission_guidelines.html
+submission_guidelines: templates/submission_guidelines.html
 leaderboard_description: TBD.
 evaluation_script: evaluation_script.zip
 remote_evaluation: False
